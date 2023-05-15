@@ -1,0 +1,7 @@
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.csproj.AssemblyReference.cache
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.AssemblyInfoInputs.cache
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.AssemblyInfo.cs
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.csproj.CoreCompileInputs.cache
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Donkennie\Documents\KennyProjects\E3\CommandsService\obj\Debug\net7.0\CommandsService.MvcApplicationPartsAssemblyInfo.cache
