@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CommandsService",
+    "\\CommandsService\\Controllers",
+    "\\PlatformService",
+    "\\PlatformService\\Controllers",
+    "\\PlatformService\\Data"
   ],
+  "SelectedNode": "\\CommandsService\\Controllers\\PlatformController.cs",
   "PreviewInSolutionExplorer": false
 }
