@@ -3,10 +3,10 @@
     "",
     "\\CommandsService",
     "\\CommandsService\\Controllers",
+    "\\K8S",
     "\\PlatformService",
     "\\PlatformService\\Controllers",
     "\\PlatformService\\Data"
   ],
-  "SelectedNode": "\\CommandsService\\Controllers\\PlatformController.cs",
   "PreviewInSolutionExplorer": false
 }
